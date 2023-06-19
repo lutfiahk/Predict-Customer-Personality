@@ -136,7 +136,7 @@ From the obtained visualization, it can be observed that the data is well separa
 
 <b>From the obtained clusters, there are 3 different customer segments.</b>
 
-* <b>CLUSTER 0 - The Newer Customers
+* <b>CLUSTER 0 - The Newer Customers</b>
 
     These customers are new with low total spent, conversion rate, and purchase frequency. They tend to be younger customers with low income.
 
